@@ -1,0 +1,26 @@
+section{
+    display: block;
+}
+#home{
+    padding-bottom:10px;
+    padding-top:90px;
+    text-align: center;
+    background-image: url('title3.png');
+    color: white;
+    margin-bottom: 0%;
+}
+#contents{
+    line-height: 2em;
+    
+}
+#container{
+    padding: 30%;
+    padding-top: 0%;
+    
+}
+h2{
+    text-align: center;
+}
+#intro{
+    height: 30px;
+}
